@@ -1,4 +1,4 @@
-package ru.l92169.test_task;
+package ru.l92169.testTask;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
